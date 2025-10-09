@@ -1,8 +1,7 @@
-import java.util.Scanner;
-public class switchCetakKRS18 {
+import  java.util.Scanner; 
 
-
-    public static void main(String[] args) {
+public class IfElseCetakKRS18 {
+public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
 
@@ -43,6 +42,8 @@ public class switchCetakKRS18 {
         }
         
     }
+
+
 
 
 
