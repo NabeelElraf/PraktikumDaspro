@@ -14,5 +14,6 @@ public class ifCetakKRS18 {
             System.out.println("KRS now can be printed");
         }
         
+        else {System.out.println("Registration Denied, Please pay the UKT first");}
     }
 }
